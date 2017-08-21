@@ -63,3 +63,21 @@ target/
 
 #Ipython Notebook
 .ipynb_checkpoints
+cifar-10-batches-py/batches.meta
+cifar-10-batches-py/data_batch_1
+cifar-10-batches-py/data_batch_2
+cifar-10-batches-py/data_batch_3
+cifar-10-batches-py/data_batch_4
+cifar-10-batches-py/data_batch_5
+cifar-10-batches-py/readme.html
+cifar-10-batches-py/test_batch
+image_classification.data-00000-of-00001
+preprocess_batch_1.p
+preprocess_batch_2.p
+preprocess_batch_3.p
+preprocess_batch_4.p
+preprocess_batch_5.p
+preprocess_training.p
+preprocess_validation.p
+cifar-10-python.tar.gz
+image_classification.data-00000-of-00001
